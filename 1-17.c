@@ -1,4 +1,4 @@
-//input the line that longer than 80 characters
+//output the line that longer than 80 characters
 #include<stdio.h>
 #define MAXSIZE 1000
 #define THRESHOLD 80
